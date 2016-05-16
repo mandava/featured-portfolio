@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Portfolio\n"
+"POT-Creation-Date: 2016-05-09 17:43-0400\n"
+"PO-Revision-Date: 2016-05-09 17:43-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: featured-portfolio.php:38
+#, php-format
+msgid ""
+"Sorry, you can't activate %1$sGenesis Featured Portfolio%2$s unless you have "
+"installed the %3$sGenesis Framework%4$s. Go back to the %5$sPlugins Page%4$s."
+msgstr ""
+
+#: featured-portfolio.php:92 featured-portfolio.php:94
+msgid "Portfolio"
+msgstr ""
+
+#: featured-portfolio.php:93 featured-portfolio.php:95
+msgid "Portfolio Item"
+msgstr ""
+
+#: featured-portfolio.php:96
+msgid "Add New Item"
+msgstr ""
+
+#: featured-portfolio.php:97 featured-portfolio.php:98
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: featured-portfolio.php:99
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: featured-portfolio.php:100
+msgid "View Item"
+msgstr ""
+
+#: featured-portfolio.php:101
+msgid "All Portfolio Items"
+msgstr ""
+
+#: featured-portfolio.php:102
+msgid "Search Portfolio"
+msgstr ""
+
+#: featured-portfolio.php:103
+msgid "Parent Portfolio Item:"
+msgstr ""
+
+#: featured-portfolio.php:104
+msgid "No portfolio items found"
+msgstr ""
+
+#: featured-portfolio.php:105
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: featured-portfolio.php:157 featured-portfolio.php:159
+msgid "Portfolio Categories"
+msgstr ""
+
+#: featured-portfolio.php:158
+msgid "Portfolio Category"
+msgstr ""
+
+#: featured-portfolio.php:160
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: featured-portfolio.php:161
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: featured-portfolio.php:162
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: featured-portfolio.php:163
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: featured-portfolio.php:164
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: featured-portfolio.php:165
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: featured-portfolio.php:166
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: featured-portfolio.php:167
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: featured-portfolio.php:168
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: featured-portfolio.php:169
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: featured-portfolio.php:170
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: featured-portfolio.php:171
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: featured-portfolio.php:172
+msgid "No portfolio categories found."
+msgstr ""
+
+#: featured-portfolio.php:203 featured-portfolio.php:205
+msgid "Portfolio Tags"
+msgstr ""
+
+#: featured-portfolio.php:204
+msgid "Portfolio Tag"
+msgstr ""
+
+#: featured-portfolio.php:206
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: featured-portfolio.php:207
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: featured-portfolio.php:208
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: featured-portfolio.php:209
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: featured-portfolio.php:210
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: featured-portfolio.php:211
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: featured-portfolio.php:212
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: featured-portfolio.php:213
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: featured-portfolio.php:214
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: featured-portfolio.php:215
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: featured-portfolio.php:216
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: featured-portfolio.php:217
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: featured-portfolio.php:218
+msgid "No portfolio tags found."
+msgstr ""
+
+#: includes/widget-class.php:34
+msgid "Displays portfolio post type with thumbnails"
+msgstr ""
+
+#: includes/widget-class.php:43
+msgid "Genesis - Featured Portfolio"
+msgstr ""
+
+#: includes/widget-class.php:120
+msgid "(no title)"
+msgstr ""
+
+#: includes/widget-class.php:208 includes/widget-class.php:221
+msgid "Title"
+msgstr ""
+
+#: includes/widget-class.php:213
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widget-class.php:218
+msgid "Order By"
+msgstr ""
+
+#: includes/widget-class.php:220
+msgid "Date"
+msgstr ""
+
+#: includes/widget-class.php:222
+msgid "Parent"
+msgstr ""
+
+#: includes/widget-class.php:223
+msgid "ID"
+msgstr ""
+
+#: includes/widget-class.php:224
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widget-class.php:225
+msgid "Random"
+msgstr ""
+
+#: includes/widget-class.php:230
+msgid "Sort Order"
+msgstr ""
+
+#: includes/widget-class.php:232
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+#: includes/widget-class.php:233
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+#: includes/widget-class.php:241
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/widget-class.php:245
+msgid "Image Size"
+msgstr ""
+
+#: includes/widget-class.php:257
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/widget-class.php:259
+msgid "None"
+msgstr ""
+
+#: includes/widget-class.php:260
+msgid "Left"
+msgstr ""
+
+#: includes/widget-class.php:261
+msgid "Right"
+msgstr ""
+
+#: includes/widget-class.php:262
+msgid "Center"
+msgstr ""
+
+#: includes/widget-class.php:270
+msgid "Show Portfolio Title"
+msgstr ""
+
+#: includes/widget-class.php:275
+msgid "Show Portfolio Content"
+msgstr ""
+
+#: includes/widget-class.php:279
+msgid "Content Character Limit"
+msgstr ""
+
+#: includes/widget-class.php:284
+msgid "More Text"
+msgstr ""
